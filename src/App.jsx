@@ -422,6 +422,7 @@ export default function App() {
               ["#how", "How It Works"],
               ["#tiers", "Invest"],
               ["#faq", "FAQ"],
+              ["#accounts", "Preview App"],
             ].map(([href, txt]) => (
               <a
                 key={href}
